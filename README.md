@@ -1,5 +1,5 @@
 # midway_pic_tool_py
-A Python tool to read and (optionally) modify serial number and/or date from PIC16C57/F57 dumps used in many Atari/Midway games  
+A Python tool to read and (optionally) modify serial number and/or date from PIC16C57/F57 dumps used in many Williams/Atari/Midway games  
 Fork & port of original C version by Pat Daderko (DogP) based on MAME midway_serial_pic_device::generate_serial_data from midwayic.cpp by Aaron Giles
 
 **Usage:** midway_pic_tool <filename> -s [new SN (0-999999)] -m [new MM (1-12)] -d [new DD (1-31)] -y [new YYYY (1980-2155)]  --gameid [new game ID (0-999]
