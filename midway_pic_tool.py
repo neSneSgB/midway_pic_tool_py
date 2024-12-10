@@ -105,8 +105,12 @@ with open(input_pic, 'r+b') as pic:
             game_title = "Gauntlet Legends"
         case 324:
             game_title = "Vapor TRX"
+        case 325:
+            game_title = "Road Burners"          
         case 328:
-            game_title = "California Speed"
+            game_title = "California Speed 25\""
+        case 329:
+            game_title = "California Speed 31\""
         case 330:
             game_title = "Tenth Degree"
         case 331:
